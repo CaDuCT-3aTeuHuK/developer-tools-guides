@@ -8,4 +8,6 @@
 - Статистика, дополнительные Pins: https://github.com/anuraghazra/github-readme-stats
 
 
+Создание файла .gitignore автоматически, на основе операционной системы, языка программирования, IDE:
+https://www.toptal.com/developers/gitignore (https://gitignore.io/)
 
